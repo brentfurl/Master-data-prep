@@ -1,0 +1,134 @@
+item_names
+cpi_Direction_vision_1_The company's vision is very clear.
+cpi_Direction_vision_2_I can summarize the company's vision to someone I meet.
+cpi_Direction_vision_3_I feel inspired by the company's vision.
+cpi_Direction_vision_4_Leaders are passionate about the company's vision.
+cpi_Direction_vision_5_Leaders are guided by the company's vision.
+cpi_Direction_strategy_1_I have confidence in the company's strategy.
+cpi_Direction_strategy_2_I know what my company wants to achieve in the next year.
+cpi_Direction_strategy_3_This company knows how to get the results it is looking for.
+cpi_Direction_strategy_4_We know what our next step is for improving our capabilities.
+cpi_Direction_strategy_5_Leadership effectively connects my work to the company goals.
+cpi_Direction_leadership_1_I have a great deal of confidence in the leadership of this company.
+cpi_Direction_leadership_2_Company leaders impact the attitude and culture of the entire company.
+cpi_Direction_leadership_3_The leadership of this company is fantastic in comparison to the leadership of other organizations I've been involved with.
+cpi_Direction_leadership_4_Leaders find the time to get to know the employees.
+cpi_Direction_leadership_5_I have confidence in the decision making of company leaders. 
+cpi_Operations_adaptability_1_We deal with the same problems again and again.*
+cpi_Operations_adaptability_2_Company changes usually have a positive impact on me.
+cpi_Operations_adaptability_3_People look to pass the blame when something goes wrong.*
+"cpi_Operations_adaptability_4_If an issue arises, people mostly remain calm and focused."
+cpi_Operations_adaptability_5_We use feedback from customers to improve our services.
+cpi_Operations_performance_1_I have real time access to business i.
+cpi_Operations_performance_2_My team uses performance measures (i.e. key performance indicators).
+cpi_Operations_performance_3_We are recognized for our successes.
+cpi_Operations_performance_4_We have a clear sense at all times whether or not we're meeting our objectives.
+cpi_Operations_performance_5_We are held accountable for our performance.
+cpi_Operations_systems_1_I often use 'workarounds' instead of the company's established systems.*
+cpi_Operations_systems_2_It often takes too long to get the information I need.*
+"cpi_Operations_systems_3_Oftentimes, I have to take care of things that shouldn't be my responsibility.*"
+cpi_Operations_systems_4_I know who to go to when I have concerns about our systems/processes.
+cpi_Operations_systems_5_I follow the company's standardized procedures.
+cpi_People_teamwork_1_Our team consistently meets our goals.
+cpi_People_teamwork_2_Our work would be better if we collaborated more.
+cpi_People_teamwork_3_Our skills complement each other well.
+cpi_People_teamwork_4_There's a real sense that I am part of a team.
+cpi_People_teamwork_5_Our company has a spirit of teamwork and cooperation.
+cpi_People_talent_1_My company does a good job of hiring the right people for the right jobs.
+cpi_People_talent_2_I am confident my performance affects my compensation.
+cpi_People_talent_3_I get along well with my supervisor.
+cpi_People_talent_4_Performance reviews are a waste of time.*
+"cpi_People_talent_5_Based on my experience, the company does a great job of acclimating new employees."
+cpi_People_development_1_I get helpful feedback from my supervisor on a regular basis.
+cpi_People_development_2_I am consistently improving at my job.
+cpi_People_development_3_People here are always willing to help me learn.
+cpi_People_development_4_The company invests in employees learning new skills.
+cpi_People_development_5_I have grown professionally during my time with this company.
+cpi_Engagement_fit_1_My job role is always extremely clear.
+cpi_Engagement_fit_2_I am very frequently overwhelmed at work.*
+cpi_Engagement_fit_3_My job is a great fit for my skills and strengths.
+cpi_Engagement_fit_4_I embrace the company's core values.
+cpi_Engagement_fit_5_I look forward to going to work.
+cpi_Engagement_customer_1_I believe in the products or services we provide.
+cpi_Engagement_customer_2_I respond to customer needs as quickly as possible.
+cpi_Engagement_customer_3_I build great relationships with my customers.
+cpi_Engagement_customer_4_I'm disappointed if I don't meet my customers' expectations.
+cpi_Engagement_customer_5_I seek feedback from customers to improve our products or services.
+cpi_Engagement_climate_1_My opinions are heard and valued.
+cpi_Engagement_climate_2_I am confident that leadership understands what I do.
+cpi_Engagement_climate_3_I am very comfortable letting my supervisor know when I've made a mistake.
+cpi_Engagement_climate_4_I trust my supervisor has my best interest in mind.
+cpi_Engagement_climate_5_I feel micromanaged.*
+extra_pos_positivity_1_People in my organization express genuine gratitude toward one another.
+extra_pos_positivity_2_I practice mindfulness by staying in the present moment while doing my work.
+extra_pos_positivity_3_People I work with generally feel optimistic about the organization's future.
+extra_pos_positivity_4_People that I work with care about my happiness and well-being.
+extra_pos_positivity_5_I feel inspired every day to do my best work.
+satisfaction_1
+effort_2
+nps_group
+nps
+Change
+Best Day
+CPI_missing
+CPI_index
+Direction
+Operations
+People
+Engagement
+Vision
+Strategy
+Leadership
+Adaptability
+Performance
+Systems
+Teamwork
+Talent
+Development
+Fit
+Customer
+Climate
+Positivity
+CPI_tot_sd
+Direction_sd
+Operations_sd
+People_sd
+Engagement_sd
+ALL
+Company
+TENURE
+LEVEL
+DEPARTMENT
+MILITARY
+AGE
+GENDER
+RACE
+VOLUNTEER
+Inclusion
+FUNCTION
+LOCATION
+GENERATION
+TEAM
+COUNTRY
+oid_characteristics_1
+oid_characteristics_2
+oid_characteristics_3
+oid_characteristics_4
+oid_characteristics_5
+oid_purpose_1
+oid_purpose_2
+oid_purpose_3
+oid_purpose_4
+oid_purpose_5
+oid_values_1
+oid_values_2
+oid_values_3
+oid_values_4
+oid_values_5
+single_change
+StartDate
+EndDate
+ROLE
+SUB_COMPANY
+Duration
+t_factor
